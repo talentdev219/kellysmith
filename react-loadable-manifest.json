@@ -1,0 +1,24 @@
+{
+  "..\\layout\\MainLayout.tsx -> @/layout/Footer": {
+    "id": 5507,
+    "files": [
+      "static/chunks/943.582188addeef32a8.js",
+      "static/chunks/507.e4dd3f792aba14ec.js"
+    ]
+  },
+  "index.tsx -> @/components/ProjectShowcase": {
+    "id": 9125,
+    "files": [
+      "static/chunks/941-de6feb6e9c075764.js",
+      "static/chunks/125.ea7d3f495a84ffc6.js"
+    ]
+  },
+  "index.tsx -> @/components/Skills": {
+    "id": 2598,
+    "files": [
+      "static/chunks/4c777930.123f71788ab67974.js",
+      "static/chunks/941-de6feb6e9c075764.js",
+      "static/chunks/2.6eba8460cabef303.js"
+    ]
+  }
+}
